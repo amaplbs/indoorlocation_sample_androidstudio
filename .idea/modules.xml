@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/IndoorlocationSample.iml" filepath="$PROJECT_DIR$/IndoorlocationSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/indoorlocation_sample_androidstudio.iml" filepath="$PROJECT_DIR$/indoorlocation_sample_androidstudio.iml" />
     </modules>
   </component>
 </project>
